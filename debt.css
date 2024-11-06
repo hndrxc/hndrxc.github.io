@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://cdn.prod.website-files.com/5e261bc81db8f19fa664899d/64e3a38a2ca2c1034c28b73b_hBvo4RYLREI5JBhb5o40GmtmfTfQeAUpjg8qiKRHDqBBsq4iA-out-0.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  
+  /* Header styling */
+  h1 {
+    text-align: center;
+    color: #0056b3;
+    margin-top: 20px;
+    border: #f9f9f9;
+
+  }
+  
+  /* Section styling */
+  section {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  #profile-picture img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+  }
+  
+  /* Section headings */
+  h2 {
+    color: #0056b3;
+    font-size: 1.5em;
+    text-align: center;
+  }
