@@ -17,6 +17,7 @@ const br = fromLonLat([-91.18, 30.41]);
 
 
 
+
 /* Establish screen user sees */
 const view = new View ({
   center: [0,0],
